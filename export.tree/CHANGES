@@ -1,6 +1,0 @@
-2.1.0 2026-08-04
-  - This version revises the participants.tsv file columns "FA1_factor1_score" and "FA1_factor2_score" to reflect a small change in coding for 1 participant. All other values and files are unchanged.
-2.0.0 2026-03-30
-  - This version expands the dataset to include additional behavioral and imaging data for a sample of left hemisphere chronic stroke survivors.  Notable changes include the addition of a new subject (sub-105), factor loading scores for four factors derived from two factor analyses as reported in the manuscript listed below (listed in participants.tsv), and the inclusion of non-smoothed, normalized lesion masks for all subjects.
-1.0.0 2025-08-14
-  - Initial release
