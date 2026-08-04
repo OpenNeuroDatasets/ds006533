@@ -1,0 +1,3 @@
+{ "Type": "Lesion",
+"SpatialReference": "bids:sub-049/anat/sub-049_T1w.nii.gz"
+}
